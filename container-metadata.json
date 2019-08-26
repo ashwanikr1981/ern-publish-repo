@@ -1,0 +1,15 @@
+{
+  "ernVersion": "0.37.3",
+  "jsApiImpls": [],
+  "miniApps": [
+    "file:/tmp/tmp-8290p2SaGit6vBJz"
+  ],
+  "nativeDeps": [
+    "react-native@0.59.10",
+    "react-native-electrode-bridge@1.5.19",
+    "react-native-ernmovie-api@0.0.11",
+    "react-native-ernmovie-api-impl@0.0.16",
+    "react-native-ernnavigation-api@0.0.5"
+  ],
+  "platform": "android"
+}
